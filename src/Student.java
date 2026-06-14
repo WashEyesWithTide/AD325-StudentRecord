@@ -1,6 +1,6 @@
 public class Student {
     private final int id;
-    private String name;
+    private final String name;
     private double gpa;
 
     public Student(int id, String name, double gpa) {
